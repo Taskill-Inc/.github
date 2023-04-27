@@ -18,7 +18,7 @@ We're excited to partner with schools and educators to help them achieve their g
 | --- | --- |
 | Taskill | The main software |
 | TIdMS | The Taskill Id Management System  |
-| Taskill Developer Playground | As the name suggests |
+| Taskill Developer Playground | As the name suggests 😉 |
 
 ## Contributing 🤝
 
