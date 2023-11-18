@@ -1,6 +1,6 @@
 ## Hi there 👋, Taskill Team here !
 
-<img src="https://taskill.fr/static/LTS.png"  width="60%" height="30%">
+<img src="https://taskill.fr/static/LTS.png?id:1234"  width="60%" height="30%">
 
 ## About Us 🚀
 
